@@ -1,11 +1,12 @@
 h1 {
-	color: midnightblue;
+	color: #b9eaff;
 	text-align: center;
 	font-weight: bold;
+	background-color: #03284d;
 }
 
 p.author {
-	color: darkgray;
+	color: #b9eaff;
 	text-align: center;
 }
 
@@ -19,7 +20,7 @@ p.author {
 /* Style the links inside the navigation bar */
 .topnav a {
 	float: left;
-	color: white;
+	color: #b9eaff;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
@@ -28,12 +29,12 @@ p.author {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-	background-color: #ddd;
+	background-color: #1d72d2;
 	color: #b9eaff;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-	background-color: #1bb1fa;
-	color: white;
+	background-color: #78b3ff;
+	color: #b9eaff;
 }
