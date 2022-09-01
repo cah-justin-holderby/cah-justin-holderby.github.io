@@ -23,6 +23,7 @@ p.author {
 	border-bottom: #03284d;
 	border-bottom-width: medium;
 	margin: auto;
+	max-height: 10%;
 }
 
 /* Add a black background color to the top navigation */
