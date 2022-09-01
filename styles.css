@@ -21,10 +21,8 @@ p.author {
 }
 
 .navborderimage {
-	border-bottom: #03284d;
-	border-bottom-width: medium;
+	border-bottom: solid 2px #03284d;
 	margin: auto;
-	max-height: 10%;
 	opacity: 90%;
 }
 
