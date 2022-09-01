@@ -8,6 +8,8 @@ h1 {
 p.author {
 	color: #b9eaff;
 	text-align: center;
+	background-color: #03284d;
+	font-style: italic;
 }
 
 /* Add a black background color to the top navigation */
