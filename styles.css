@@ -38,12 +38,13 @@ p.author {
 	background-color: #02376c;
 	overflow: hidden;
 	height: 55px;
+	text-align: center;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
 	color: #ebfbff;
-	float: left;
+	display: inline-block;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
