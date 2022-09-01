@@ -43,12 +43,13 @@ p.author {
 
 /* Style the links inside the navigation bar */
 .topnav a {
-	float: left;
+	float: right;
 	color: #ebfbff;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
 	font-size: 17px;
+	height: 100%;
 }
 
 /* Change the color of links on hover */
