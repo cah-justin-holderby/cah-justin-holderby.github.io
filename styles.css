@@ -64,3 +64,11 @@ p.author {
 	color: #ebfbff;
 	border: solid 1px transparent;
 }
+
+.bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic;
+}
