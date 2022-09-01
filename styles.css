@@ -18,7 +18,7 @@ p.author {
 .topnav {
 	background-color: #02376c;
 	overflow: hidden;
-	justify-content: center;
+	margin: auto;
 }
 
 /* Style the links inside the navigation bar */
