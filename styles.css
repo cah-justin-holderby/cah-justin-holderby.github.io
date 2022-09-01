@@ -35,6 +35,7 @@ p.author {
 	background-color: #02376c;
 	overflow: hidden;
 	text-align: center;
+	height: 55px;
 }
 
 /* Style the links inside the navigation bar */
