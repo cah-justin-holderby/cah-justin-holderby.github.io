@@ -4,14 +4,16 @@ h1 {
 	font-weight: bold;
 }
 
-p {
+p.author {
 	color: darkgray;
+	text-align: center;
 }
 
 /* Add a black background color to the top navigation */
 .topnav {
 	background-color: #02376c;
 	overflow: hidden;
+	justify-content: center;
 }
 
 /* Style the links inside the navigation bar */
