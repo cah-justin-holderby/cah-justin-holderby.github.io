@@ -52,6 +52,7 @@ p.author {
 .topnav a:hover {
 	background-color: #78b3ff;
 	color: #ebfbff;
+	border: solid 1px #ebfbff;
 }
 
 /* Add a color to the active/current link */
