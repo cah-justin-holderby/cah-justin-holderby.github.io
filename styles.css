@@ -38,12 +38,12 @@ p.author {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-	background-color: #1d72d2;
+	background-color: #78b3ff;
 	color: #ebfbff;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-	background-color: #78b3ff;
+	background-color: #1d72d2;
 	color: #ebfbff;
 }
