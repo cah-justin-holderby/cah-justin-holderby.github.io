@@ -43,7 +43,7 @@ p.author {
 /* Style the links inside the navigation bar */
 .topnav a {
 	color: #ebfbff;
-	margin: 0;
+	float: left;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
