@@ -21,9 +21,13 @@ p.author {
 }
 
 .navborderimage {
-	border-bottom: solid 2px #03284d;
+	border: solid 2px #03284d;
 	margin: auto;
-	opacity: 90%;
+}
+
+.navimage {
+	object-fit:cover;
+	width:100%; height: 100px;
 }
 
 /* Add a black background color to the top navigation */
