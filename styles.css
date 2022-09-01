@@ -30,7 +30,7 @@ p.author {
 	object-fit:cover;
 	object-position: center;
 	width: 100%;
-	max-height: 100px;
+	max-height: 96px;
 }
 
 /* Add a black background color to the top navigation */
@@ -48,7 +48,6 @@ p.author {
 	padding: 14px 16px;
 	text-decoration: none;
 	font-size: 17px;
-	height: 100%;
 }
 
 /* Change the color of links on hover */
