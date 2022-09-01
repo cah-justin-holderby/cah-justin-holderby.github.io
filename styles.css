@@ -28,6 +28,9 @@ p.author {
 
 .navimage {
 	object-fit:cover;
+	object-position: center;
+	width: 100%;
+	height: 98px;
 }
 
 /* Add a black background color to the top navigation */
