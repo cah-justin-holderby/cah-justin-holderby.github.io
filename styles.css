@@ -24,6 +24,7 @@ p.author {
 	border-bottom-width: medium;
 	margin: auto;
 	max-height: 10%;
+	opacity: 90%;
 }
 
 /* Add a black background color to the top navigation */
